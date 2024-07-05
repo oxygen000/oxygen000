@@ -36,9 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/oxygen000/oxygen000/output/snake.svg" alt="Snake animation" />
 
 ###
 
