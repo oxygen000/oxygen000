@@ -1,4 +1,4 @@
-<h2 align="left">Hey  👋🏼 ,  I'm Abdel Hamed Reda<br>Frontend Development | Angular | React.js | Node.js</h2>
+<h2 align="left">Hey  👋🏼 ,  I'm Abdel Hamed Reda<br>Frontend Development React.js | Node.js</h2>
 
 ###
 
