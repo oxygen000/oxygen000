@@ -24,7 +24,3 @@ React Frontend Developer building modern, responsive web apps with React, Next.j
 <a href="https://www.github.com/oxygen000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oxygen000?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 ### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/oxygen000/ai-powered-notes-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=oxygen000&repo=ai-powered-notes-frontend&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
